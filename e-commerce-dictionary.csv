@@ -1,0 +1,21 @@
+﻿Table,Variable,Discerption
+ecommerce,CustomerID,Unique customer ID
+ecommerce,Churn,Churn Flag
+ecommerce,Tenure,Tenure of customer in organization
+ecommerce,PreferredLoginDevice,Preferred login device of customer
+ecommerce,CityTier,City tier
+ecommerce,WarehouseToHome,Distance in between warehouse to home of customer
+ecommerce,PreferredPaymentMode,Preferred payment method of customer
+ecommerce,Gender,Gender of customer
+ecommerce,HourSpendOnApp,Number of hours spend on mobile application or website
+ecommerce,NumberOfDeviceRegistered,Total number of deceives is registered on particular customer
+ecommerce,PreferedOrderCat,Preferred order category of customer in last month
+ecommerce,SatisfactionScore,Satisfactory score of customer on service
+ecommerce,MaritalStatus,Marital status of customer
+ecommerce,NumberOfAddress,Total number of added added on particular customer
+ecommerce,Complain,Any complaint has been raised in last month
+ecommerce,OrderAmountHikeFromlastYear,Percentage increases in order from last year
+ecommerce,CouponUsed,Total number of coupon has been used in last month
+ecommerce,OrderCount,Total number of orders has been places in last month
+ecommerce,DaySinceLastOrder,Day Since last order by customer
+ecommerce,CashbackAmount,Average cashback in last month
